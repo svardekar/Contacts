@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Oleg Grystak
+N:Grystak;Oleg;;;
+item1.EMAIL;TYPE=INTERNET:olegg@silchuk.com
+item1.X-ABLabel:My Email
+EMAIL;TYPE=INTERNET;TYPE=WORK:fuelsupport@silchuk.com
+item2.TEL:(605) 403-5117
+item2.X-ABLabel:My phone
+TEL;TYPE=WORK:(605) 202-3034
+item3.ADR:;;9634 River Rd;Marcy;NY;13403-2075;US;9634 River Rd\nMarcy\, NY 
+ 13403-2075\nUS
+item3.X-ABLabel:Silchuk Transport
+ORG:Silchuk Fuel
+TITLE:Business Development Specialist
+URL;TYPE=WORK:https\://www.silchukfuel.com
+CATEGORIES:Imported on 1/15,myContacts
+END:VCARD

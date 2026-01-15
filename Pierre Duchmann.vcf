@@ -1,0 +1,22 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Pierre Duchmann
+N:Duchmann;Pierre;;;
+item1.EMAIL;TYPE=INTERNET:pduchmann@silchuk.com
+item1.X-ABLabel:My Email
+EMAIL;TYPE=INTERNET;TYPE=WORK:fuelsupport@silchuk.com
+item2.EMAIL;TYPE=INTERNET:pduchmann@silchuk.com
+item2.X-ABLabel:My Email
+item3.TEL:(605) 202-3032
+item3.X-ABLabel:My phone
+TEL;TYPE=WORK:(605) 202-3034
+item4.ADR:;;9634 River Rd;Marcy;NY;13403-2075;US;9634 River Rd\nMarcy\, NY 
+ 13403-2075\nUS
+item4.X-ABLabel:Silchuk Transport
+ORG:Silchuk Fuel
+TITLE:Director of Carrier Services
+URL;TYPE=WORK:https\://www.silchukfuel.com
+PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzEXJczs5A9KB61lo27IEu
+ zVLUrNHAdkoAVREyZu8VjsPeVPkavV
+CATEGORIES:Imported on 1/15,myContacts
+END:VCARD
